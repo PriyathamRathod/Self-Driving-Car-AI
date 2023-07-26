@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jul 25 14:57:44 2023
-
-@author: priyatham
+@author: Priyatham
 """
 #AI for Self Driving Cars
 
