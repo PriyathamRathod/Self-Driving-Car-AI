@@ -35,3 +35,6 @@ learns to navigate the environment by making driving decisions based on the trai
 
 Use the GUI controls to interact with the simulation, pause/resume training, and view the AI agent's decision-making process.
 The AI car model has a brain that can be saved and loaded and then trained on other environments like different locations and different circumstances. This saved brain can then be loaded in these environments and can be trained accordingly.
+
+![WhatsApp Image 2023-08-10 at 10 51 19](https://github.com/PriyathamRathod/Self-Driving-Car-AI/assets/98626352/585a9cc2-7a85-4d0d-a3df-88cca7e73700)
+
